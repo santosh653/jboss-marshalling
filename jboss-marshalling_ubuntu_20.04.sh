@@ -1,8 +1,8 @@
 # ----------------------------------------------------------------------------
 #
-# Package           : https://github.com/jboss-remoting/jboss-marshalling
-# Version           : 2.0.11.Final
-# Source repo       : https://github.com/apache/royale-compiler
+# Package           : jboss-marshalling
+# Version           : 0.1.0
+# Source repo       : https://github.com/jboss-remoting/jboss-marshalling
 # Tested on         : ubuntu_20.04
 # Script License    : Apache License, Version 2 or later
 # Maintainer        : Santosh Kulkarni <santoshkulkarni70@gmail.com> / Priya Seth<sethp@us.ibm.com>
@@ -20,7 +20,7 @@
 export REPO=https://github.com/jboss-remoting/jboss-marshalling
 
 if [ -z "$1" ]; then
-  export VERSION="2.0.11.Final"
+  export VERSION="2.0.12.Final"
 else
   export VERSION="$1"
 fi
