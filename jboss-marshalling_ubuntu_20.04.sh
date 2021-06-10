@@ -1,7 +1,7 @@
 # ----------------------------------------------------------------------------
 #
 # Package           : jboss-marshalling
-# Version           : 0.1.0
+# Version           : 2.0.12.Final
 # Source repo       : https://github.com/jboss-remoting/jboss-marshalling
 # Tested on         : ubuntu_20.04
 # Script License    : Apache License, Version 2 or later
